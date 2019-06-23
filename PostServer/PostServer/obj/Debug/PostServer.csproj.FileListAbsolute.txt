@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\PostServer\PostServer\bin\Debug\PostServer.exe.config
+C:\Users\User\source\repos\PostServer\PostServer\bin\Debug\PostServer.exe
+C:\Users\User\source\repos\PostServer\PostServer\bin\Debug\PostServer.pdb
+C:\Users\User\source\repos\PostServer\PostServer\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\PostServer\PostServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\PostServer\PostServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\PostServer\PostServer\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\PostServer\PostServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\PostServer\PostServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\PostServer\PostServer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\source\repos\PostServer\PostServer\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\User\source\repos\PostServer\PostServer\obj\Debug\PostServer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PostServer\PostServer\obj\Debug\PostServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PostServer\PostServer\obj\Debug\PostServer.csproj.CopyComplete
+C:\Users\User\source\repos\PostServer\PostServer\obj\Debug\PostServer.exe
+C:\Users\User\source\repos\PostServer\PostServer\obj\Debug\PostServer.pdb
